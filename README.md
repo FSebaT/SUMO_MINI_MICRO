@@ -1,6 +1,8 @@
 # 🤖 Diseños 3D para Robots Minisumo
 
 ¡Bienvenido a este repositorio de recursos para robótica de competición! Aquí encontrarás los archivos de diseño en 3D listos para descargar y fabricar diferentes tipos de chasis y estructuras para robots Minisumo.
+<img src="MiniSumo_Amateur_WDM.png" width="300">
+
 
 ## 📂 Contenido del Repositorio
 Cada carpeta incluye los archivos necesarios para un prototipo específico. Para obtenerlos completos, sigue estos pasos:
